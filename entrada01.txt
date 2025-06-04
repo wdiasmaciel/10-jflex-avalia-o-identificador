@@ -1,0 +1,11 @@
+abcde
+$abc
+$
+$_
+abc_123
+123abcd
+456abc
+abc$
+abc_
+7890
+_abc
