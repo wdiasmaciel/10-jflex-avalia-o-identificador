@@ -56,7 +56,6 @@
     }
 %}
 
-
 // Macros:
 letra = [a-zA-Z]
 numero = [0-9]
