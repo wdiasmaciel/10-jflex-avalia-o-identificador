@@ -50,7 +50,7 @@
 %column        // Permite usar yycolumn.
 %class Scanner // Troca o nome da classe Yylex para Scanner.
 
-%{
+%{  // Código que será incluído no analisador léxico:
     public String getLexema() {
         return yytext(); // Apenas retorna o valor de yytext().
     }
